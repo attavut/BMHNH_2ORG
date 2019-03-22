@@ -69,7 +69,7 @@ vm0$ docker network create --attachable --driver overlay testnet
 ##### Clone this repo and checkout `2Orgs` branch on all nodes.
 
 ```
-vm{0|1}$ git clone https://github.com/netmanito/BMHNH
+vm{0|1}$ git clone https://github.com/attavut/BMHNH_2ORG
 vm{0|1}$ cd BMHNH/
 vm{0|1}(BMHNH)$ git checkout 2Orgs
 
