@@ -1,5 +1,7 @@
 ## Build Multi-Host Network (BMHN)
 
+based on https://github.com/netmanito/BMHNH
+
 This Fork is based on the original [wahabjawed/Build-Multi-Host-Network-Hyperledger](https://github.com/wahabjawed/Build-Multi-Host-Network-Hyperledger) repository.
 
 It's been updated to work with 2 Organisations instead of one.
